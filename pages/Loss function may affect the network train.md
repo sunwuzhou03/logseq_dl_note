@@ -1,0 +1,3 @@
+- ![image.png](../assets/image_1695089675922_0.png)
+- In the pytorch, the softmax have been add the cross-entroy loss function.
+- ![image.png](../assets/image_1695089885485_0.png){:height 491, :width 644}

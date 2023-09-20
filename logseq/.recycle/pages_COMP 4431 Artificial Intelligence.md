@@ -1,0 +1,2 @@
+- The first lecture
+	- [[The history of Artificial Intelligence]], [[Solve the problem]]
