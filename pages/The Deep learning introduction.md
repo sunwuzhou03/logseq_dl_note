@@ -52,7 +52,6 @@
 			- ![image.png](../assets/image_1694233096508_0.png)
 			-
 - # Why do we do the deep learning?
-  collapsed:: true
 	- Deeper is Better?
 	  collapsed:: true
 		- ![image.png](../assets/image_1694233224997_0.png)
