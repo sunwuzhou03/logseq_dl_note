@@ -13,3 +13,8 @@ file-path:: ../assets/Symbiotic_Graph_Neural_Networks_for_3D_Skeleton-Based_Huma
   hl-page:: 3
   hl-color:: yellow
   id:: 65533bd6-cf93-4068-a074-8e66e7315782
+- M is the number of joints and Dx ¼ 3 reﬂects the 3D joint positions
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 65533c99-602c-446d-bf33-e2cb40b75398
