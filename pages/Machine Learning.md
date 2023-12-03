@@ -10,7 +10,6 @@
 	- ![image.png](../assets/image_1694102734812_0.png)
 - # Lecture 1-5 Supervised Learning
 	- ## Introduction
-	  collapsed:: true
 		- ## What need?
 			- Training data(The datas need **labels**)
 			- ![image.png](../assets/image_1694102854815_0.png)
@@ -24,7 +23,6 @@
 		- [[Backpropagation]]
 		- [[Regression]]
 		- [[Classfication (Naive Bayes Classifier)]]
-		  collapsed:: true
 		- [[Logistic Regression]]
 		- [[General Guidance]]
 		- [[When gradient is small... (Optimization Issue)]]

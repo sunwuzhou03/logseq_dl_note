@@ -52,3 +52,4 @@ collapsed:: true
 	  collapsed:: true
 		- ![image.png](../assets/image_1695130302111_0.png)
 - # The closer the ideal and the reality, the better.
+-
