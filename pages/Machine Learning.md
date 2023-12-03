@@ -50,6 +50,7 @@
   collapsed:: true
 	- When u deal with how to label the data, you can you use ^^reinforcement learning^^. For example, it's very difficult for us to label the go competition data.
 - # Lecture 8: Anomaly Detection
+  collapsed:: true
 	- To make machine to have the ability to **answer he don't know.**
 	- ![image.png](../assets/image_1694101672974_0.png)
 - # Lecture 9: Explainable AI
