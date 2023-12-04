@@ -1,3 +1,6 @@
 - ![image.png](../assets/image_1701702676711_0.png)
 - # Why hidden layer?
+	- ![image.png](../assets/image_1701703049757_0.png)
+	- ![image.png](../assets/image_1701703229855_0.png)
+	- ![image.png](../assets/image_1701703249181_0.png)
 	-
