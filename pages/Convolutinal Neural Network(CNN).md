@@ -18,6 +18,8 @@
 	- ![image.png](../assets/image_1701697991649_0.png)
 	- consider all channels, stride, padding
 	- ![image.png](../assets/image_1701698108748_0.png)
+	- ![image.png](../assets/image_1701698245621_0.png)
+	- ![image.png](../assets/image_1701698395770_0.png)
 	- ![image.png](../assets/image_1701692693397_0.png)
 	-
 	-
