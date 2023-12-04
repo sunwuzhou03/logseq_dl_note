@@ -2,6 +2,7 @@
   id:: 656dbef6-97c9-4e45-8746-d69f176b812a
 - when the image are in different sizes, we can resize them in the same size.
 - # image classification
+  collapsed:: true
 	- ![image.png](../assets/image_1701691563803_0.png)
 	- the image combine by three dimensions.
 	- In order to input the image into machine model, we can flatten the 3d-tensor(image)
@@ -22,5 +23,7 @@
 	- ![image.png](../assets/image_1701698245621_0.png)
 	- ![image.png](../assets/image_1701698395770_0.png)
 	- ![image.png](../assets/image_1701692693397_0.png)
-	-
-	-
+	- ![image.png](../assets/image_1701698855402_0.png)
+	- The above way use in image recognition will have low model bias. When we use cnn in other task, we need to consider if the pattern satisfy the above mode
+- # Another story about convolutional neural network
+-
