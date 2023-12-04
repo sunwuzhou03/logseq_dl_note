@@ -30,28 +30,20 @@
 		  collapsed:: true
 			- ![image.png](../assets/image_1694790774018_0.png)
 	- Overfitting
-	  collapsed:: true
 		- introduction
-		  collapsed:: true
 			- ![image.png](../assets/image_1694837781307_0.png)
 			-
 		- why?
-		  collapsed:: true
 			- ![image.png](../assets/image_1694837908014_0.png)
 		- how?
-		  collapsed:: true
 			- Way 1:
-			  collapsed:: true
 				- ![image.png](../assets/image_1694838036953_0.png)
 			- Way 2:
-			  collapsed:: true
 				- ![image.png](../assets/image_1694838273202_0.png)
 			- Notice:
-			  collapsed:: true
 				- ![image.png](../assets/image_1694838742459_0.png)
 				- ![image.png](../assets/image_1694838779366_0.png)
 		- select model
-		  collapsed:: true
 			- wrong way:
 			  collapsed:: true
 				- ![image.png](../assets/image_1694839379075_0.png)
