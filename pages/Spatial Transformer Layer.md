@@ -1,1 +1,4 @@
-- ^^CNN is not ^^
+- ^^CNN is not invariant scaling and rotation^^
+- ![image.png](../assets/image_1701705896960_0.png)
+- # Explain
+	-
