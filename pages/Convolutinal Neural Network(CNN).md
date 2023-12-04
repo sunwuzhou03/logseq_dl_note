@@ -2,5 +2,15 @@
   id:: 656dbef6-97c9-4e45-8746-d69f176b812a
 - when the image are in different sizes, we can resize them in the same size.
 - # image classification
-	- ![image.png](../assets/image_1701691488206_0.png)
+	- ![image.png](../assets/image_1701691563803_0.png)
+	- the image combine by three dimensions.
+	- In order to input the image into machine model, we can flatten the 3d-tensor(image)
+	- ![image.png](../assets/image_1701691650500_0.png)
+	- ![image.png](../assets/image_1701691673228_0.png)
+	- when the model weight increasing, the possibility of overfitting will increasing
+	- maybe we don't need to use fully connected network, we just need to extract some special feature
+	- ![image.png](../assets/image_1701691793710_0.png)
+	- ![image.png](../assets/image_1701691853948_0.png)
+	-
+	-
 	-
