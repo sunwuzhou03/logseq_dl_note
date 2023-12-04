@@ -1,0 +1,3 @@
+- ![image.png](../assets/image_1701702676711_0.png)
+- # Why hidden layer?
+	-
