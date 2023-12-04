@@ -26,4 +26,6 @@
 	- ![image.png](../assets/image_1701698855402_0.png)
 	- The above way use in image recognition will have low model bias. When we use cnn in other task, we need to consider if the pattern satisfy the above mode
 - # Another story about convolutional neural network
+	- ![image.png](../assets/image_1701699104213_0.png)
+	-
 -
