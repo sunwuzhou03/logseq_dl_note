@@ -3,4 +3,9 @@
 	- ![image.png](../assets/image_1701703049757_0.png)
 	- ![image.png](../assets/image_1701703229855_0.png)
 	- ![image.png](../assets/image_1701703249181_0.png)
+	- ![image.png](../assets/image_1701703382586_0.png)
+	- two relu can combine the hard sigmoid
+- # Fat Neural network
+	- ![image.png](../assets/image_1701703476527_0.png)
 	-
+-
