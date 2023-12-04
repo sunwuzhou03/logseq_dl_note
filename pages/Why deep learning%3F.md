@@ -25,4 +25,9 @@
 	-
 - # Example
 	- ![image.png](../assets/image_1701705240285_0.png)
+	- ![image.png](../assets/image_1701705409988_0.png)
+- # Think more
+	- ![image.png](../assets/image_1701705464014_0.png)
+- # Summarize
+	- ![image.png](../assets/image_1701705516158_0.png)
 	-
