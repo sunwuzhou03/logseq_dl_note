@@ -26,15 +26,21 @@
 	- ![image.png](../assets/image_1701698855402_0.png)
 	- The above way use in image recognition will have low model bias. When we use cnn in other task, we need to consider if the pattern satisfy the above mode
 - # Another story about convolutional neural network
+  collapsed:: true
 	- ![image.png](../assets/image_1701699104213_0.png)
 	- ![image.png](../assets/image_1701699475087_0.png)
 	- use filter to do the inner product
 	- ![image.png](../assets/image_1701699718693_0.png)
 	- ![image.png](../assets/image_1701699941499_0.png)
+- # Pooling
+  collapsed:: true
 	- ![image.png](../assets/image_1701700121346_0.png)
 	- pooling functions is to small the image(pool don't have parameters)
 	- ![image.png](../assets/image_1701700178757_0.png)
-	- ^^notice^^: the pooling may also hurt the final model performance
+	- ^^Notice^^: the pooling may also hurt the final model performance
+	- ![image.png](../assets/image_1701700272813_0.png)
 	-
+- # Application: Playing Go
+	- ![image.png](../assets/image_1701700477904_0.png)
+	- the 48 channels come from domain knowledge
 	-
--
