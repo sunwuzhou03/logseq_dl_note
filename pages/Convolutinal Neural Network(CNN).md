@@ -29,4 +29,7 @@
 	- ![image.png](../assets/image_1701699104213_0.png)
 	- ![image.png](../assets/image_1701699475087_0.png)
 	- use filter to do the inner product
+	- ![image.png](../assets/image_1701699718693_0.png)
+	- ![image.png](../assets/image_1701699941499_0.png)
+	-
 -
