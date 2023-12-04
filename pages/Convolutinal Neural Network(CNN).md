@@ -11,6 +11,6 @@
 	- maybe we don't need to use fully connected network, we just need to extract some special feature
 	- ![image.png](../assets/image_1701691793710_0.png)
 	- ![image.png](../assets/image_1701691853948_0.png)
-	-
+	- ![image.png](../assets/image_1701692693397_0.png)
 	-
 	-
