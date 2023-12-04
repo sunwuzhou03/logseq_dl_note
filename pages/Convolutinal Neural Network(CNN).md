@@ -41,9 +41,19 @@
 	- ![image.png](../assets/image_1701700272813_0.png)
 	-
 - # Application: Playing Go
+  collapsed:: true
 	- ![image.png](../assets/image_1701700477904_0.png)
 	- the 48 channels come from domain knowledge. The expert use 48 numbers to describe the chess piece. it can be found in Alphago Paper
 	  id:: 656de37f-579b-4208-b819-2ad14db5b2ba
 	- ![image.png](../assets/image_1701700719793_0.png)
 	- ![image.png](../assets/image_1701700794740_0.png)
+	- ![image.png](../assets/image_1701700894009_0.png)
 	-
+- # More Applications
+  collapsed:: true
+	- ![image.png](../assets/image_1701700934214_0.png)
+	- we need to consider the practical problem when we use the CNN
+- # To Learn
+  collapsed:: true
+	- ![image.png](../assets/image_1701700986440_0.png)
+	- use model to solve the rotation and scaling problem
