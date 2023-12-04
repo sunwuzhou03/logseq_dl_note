@@ -12,7 +12,12 @@
 	- ![image.png](../assets/image_1701691793710_0.png)
 	- ![image.png](../assets/image_1701691853948_0.png)
 	- ![image.png](../assets/image_1701697825475_0.png)
-	- can different neuro
+	- can different neurons have different sizes of receptive field?
+	- cover only some channels? no, some feature only appear in red(or green, blue) channel
+	- not square receptive field?
+	- ![image.png](../assets/image_1701697991649_0.png)
+	- consider all channels, stride, padding
+	- ![image.png](../assets/image_1701698108748_0.png)
 	- ![image.png](../assets/image_1701692693397_0.png)
 	-
 	-
