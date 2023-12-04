@@ -31,5 +31,10 @@
 	- use filter to do the inner product
 	- ![image.png](../assets/image_1701699718693_0.png)
 	- ![image.png](../assets/image_1701699941499_0.png)
+	- ![image.png](../assets/image_1701700121346_0.png)
+	- pooling functions is to small the image(pool don't have parameters)
+	- ![image.png](../assets/image_1701700178757_0.png)
+	- ^^notice^^: the pooling may also hurt the final model performance
+	-
 	-
 -
