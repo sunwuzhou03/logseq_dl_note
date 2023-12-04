@@ -13,5 +13,10 @@
 	- ![image.png](../assets/image_1701704189421_0.png)
 	- ![image.png](../assets/image_1701704292219_0.png)
 - # Why we need deep?
+  collapsed:: true
 	- ![image.png](../assets/image_1701704452638_0.png)
+	- for a same function, the deep model parameters is less than fat network.
+	-
+- # Use Analogy to explain deep model is better
+	- ![image.png](../assets/image_1701704707071_0.png)
 	-
