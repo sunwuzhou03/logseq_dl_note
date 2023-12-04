@@ -7,5 +7,5 @@
 	- two relu can combine the hard sigmoid
 - # Fat Neural network
 	- ![image.png](../assets/image_1701703476527_0.png)
-	-
+	- ![image.png](../assets/image_1701704016270_0.png)
 -
