@@ -1,5 +1,4 @@
 # The Application
-collapsed:: true
 	- ![image.png](../assets/image_1694307885134_0.png)
 	-
 - # Example Application
