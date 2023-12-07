@@ -25,4 +25,5 @@ collapsed:: true
 	- ![image.png](../assets/image_1701921019196_0.png)
 	- ![image.png](../assets/image_1701921121460_0.png)
 	- ![image.png](../assets/image_1701921333938_0.png)
-	-
+	- ![image.png](../assets/image_1701921574953_0.png)
+	- the $$W^v$$ is a matrix( use fully connected neuron network ). The larger $$alpha_1,i$$, the more information
