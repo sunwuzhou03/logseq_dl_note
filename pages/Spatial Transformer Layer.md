@@ -1,5 +1,6 @@
 - ^^CNN is not invariant scaling and rotation^^
 - ![image.png](../assets/image_1701705896960_0.png)
 - # Explain
-	- ![image.png](../assets/image_1701916661581_0.png)
-	-
+	- ![image.png](../assets/image_1701916848104_0.png)
+	- ![image.png](../assets/image_1701916795223_0.png)
+	- ![image.png](../assets/image_1701916984328_0.png)
