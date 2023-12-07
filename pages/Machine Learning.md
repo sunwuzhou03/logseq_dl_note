@@ -9,7 +9,6 @@
 	- output: regression, classification, image, text
 	- ![image.png](../assets/image_1694102734812_0.png)
 - # Lecture 1-5 Supervised Learning
-  collapsed:: true
 	- ## Introduction
 	  collapsed:: true
 		- ## What need?
@@ -34,6 +33,11 @@
 		- [[Loss function may affect the network train]]
 		- [[Talk about the fundamentals of machine learning]]
 		- [[Gradient Descent]]
+		- [[Convolutinal Neural Network(CNN)]]
+		- [[Why deep learning?]]
+		- [[Validation and Overfitting]]
+		- [[Spatial Transformer Layer]]
+		-
 - # Lecture 7: Self-supervised Learning
   collapsed:: true
 	- ## Develop general purpose knowledge(**Pre-train**)
