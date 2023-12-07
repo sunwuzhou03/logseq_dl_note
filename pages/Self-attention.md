@@ -22,5 +22,6 @@ collapsed:: true
 	- ![image.png](../assets/image_1701920803618_0.png)
 	- we can use self-attention many times
 	- ^^Attention is all you need^^ is famous paper
+	- ![image.png](../assets/image_1701921019196_0.png)
+	- ![image.png](../assets/image_1701921121460_0.png)
 	-
--
