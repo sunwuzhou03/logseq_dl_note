@@ -14,4 +14,6 @@ collapsed:: true
 	- ![image.png](../assets/image_1701920018368_0.png)
 	-
 - # Sequence labeling
--
+	- ![image.png](../assets/image_1701920404395_0.png)
+	- we can find the first saw and second saw is different, but only use fc can't discriminate them. To do this, we can set window to let model consider context.
+	-
