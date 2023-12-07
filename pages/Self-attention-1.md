@@ -24,4 +24,5 @@ collapsed:: true
 	- ^^Attention is all you need^^ is famous paper
 	- ![image.png](../assets/image_1701921019196_0.png)
 	- ![image.png](../assets/image_1701921121460_0.png)
+	- ![image.png](../assets/image_1701921333938_0.png)
 	-
