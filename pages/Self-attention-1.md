@@ -14,6 +14,7 @@ collapsed:: true
 	- ![image.png](../assets/image_1701920018368_0.png)
 	-
 - # Sequence labeling
+  collapsed:: true
 	- ![image.png](../assets/image_1701920404395_0.png)
 	- we can find the first saw and second saw is different, but only use fc can't discriminate them. To do this, we can set window to let model consider context.
 	- we can't consider long sequence just using maximum window size which will create the overfitting and hard to compute. In order to complete this task, we can use self-attention
@@ -26,4 +27,7 @@ collapsed:: true
 	- ![image.png](../assets/image_1701921121460_0.png)
 	- ![image.png](../assets/image_1701921333938_0.png)
 	- ![image.png](../assets/image_1701921574953_0.png)
-	- the $$W^v$$ is a matrix( use fully connected neuron network ). The larger $$alpha_1,i$$, the more information
+	- the $$W^v$$ is a matrix( can use fully connected neuron network ). The larger $$\alpha_{1,i}$$, the more information $$v^i$$ occupy in the $$b^1$$
+	-
+-
+-
