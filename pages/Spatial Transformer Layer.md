@@ -1,6 +1,7 @@
 - ^^CNN is not invariant scaling and rotation^^
 - ![image.png](../assets/image_1701705896960_0.png)
 - # Explain
+  collapsed:: true
 	- ![image.png](../assets/image_1701916848104_0.png)
 	- ![image.png](../assets/image_1701916795223_0.png)
 	- the image combined by pixel, we can rotate or scaling by changing the pixel location. ^^Notice^^, the pixel location is integer.
@@ -15,6 +16,7 @@
 	- ![image.png](../assets/image_1701918051285_0.png)
 	-
 - # Application
+  collapsed:: true
 	- ![image.png](../assets/image_1701918495868_0.png)
 	- ![image.png](../assets/image_1701918445072_0.png)
 	- fix the two parameter make the layer only have the scaling function which is similar to focus on some part of object.
