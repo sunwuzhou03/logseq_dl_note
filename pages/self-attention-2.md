@@ -1,0 +1,4 @@
+- ![image.png](../assets/image_1702047831947_0.png)
+- how to use the $$a^i$$ to compute the $$b^i$$
+- ![image.png](../assets/image_1702047988354_0.png)
+-
