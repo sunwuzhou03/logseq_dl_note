@@ -13,11 +13,13 @@
 - # positional encoding
 	- ![image.png](../assets/image_1702049228125_0.png)
 	- ![image.png](../assets/image_1702049308022_0.png)
-	-
+	- we don't need to give a huge windows to use self-attention
 	- the position encoding is also a problem to be solved
 	- ![image.png](../assets/image_1702049371163_0.png)
 	- ![image.png](../assets/image_1702049486045_0.png)
 	- ![image.png](../assets/image_1702049619015_0.png)
 	- ![image.png](../assets/image_1702049750999_0.png)
 	- ![image.png](../assets/image_1702049781689_0.png)
+	- ![image.png](../assets/image_1702049967651_0.png)
 	-
+-
