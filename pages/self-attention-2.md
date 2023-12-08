@@ -8,4 +8,7 @@
 	-
 - ![image.png](../assets/image_1702048700272_0.png)
 - # Multi-Head self-attention
+	- ![image.png](../assets/image_1702048931623_0.png)
+	- ![image.png](../assets/image_1702048950397_0.png)
+- # positional encoding
 	-
