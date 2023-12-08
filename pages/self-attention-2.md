@@ -11,4 +11,9 @@
 	- ![image.png](../assets/image_1702048931623_0.png)
 	- ![image.png](../assets/image_1702048950397_0.png)
 - # positional encoding
-	-
+	- ![image.png](../assets/image_1702049228125_0.png)
+	- ![image.png](../assets/image_1702049308022_0.png)
+	- the position encoding is also a problem to be solved
+	- ![image.png](../assets/image_1702049371163_0.png)
+		- ![image.png](../assets/image_1702049486045_0.png)
+		-
